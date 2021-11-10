@@ -2,9 +2,9 @@
     "CONTRACT_ADDRESS": "0x2a7933C22971600ED09f25CEb8a363BdC63a31b4",
     "SCAN_LINK": "https://rinkeby.etherscan.io/address/0x2a7933c22971600ed09f25ceb8a363bdc63a31b4",
     "NETWORK": {
-        "NAME": "Rinkeby",
+        "NAME": "Ethereum",
         "SYMBOL": "ETH",
-        "ID": 4
+        "ID": 1
     },
     "NFT_NAME": "Crypto Country Club",
     "SYMBOL": "CCC NFT",
@@ -13,6 +13,6 @@
     "DISPLAY_COST": 0.05,
     "GAS_LIMIT": 285000,
     "MARKETPLACE": "Opeansea",
-    "MARKETPLACE_LINK": "https://testnets.opensea.io/collection/cccwallettest-v2",
+    "MARKETPLACE_LINK": "https://opensea.io/collection/cryptocountryclub-collection",
     "SHOW_BACKGROUND": true
 }
