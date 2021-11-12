@@ -8,7 +8,7 @@
     },
     "NFT_NAME": "Crypto Country Club",
     "SYMBOL": "CCC NFT",
-    "MAX_SUPPLY": 5000,
+    "MAX_SUPPLY": 9900,
     "WEI_COST": 50000000000000000,
     "DISPLAY_COST": 0.05,
     "GAS_LIMIT": 285000,
