@@ -1,13 +1,13 @@
 {
-    "CONTRACT_ADDRESS": "",
-    "SCAN_LINK": "",
+    "CONTRACT_ADDRESS": "0xa5e4bd15cad5e5b0611f2c239521526ac159a850",
+    "SCAN_LINK": "https://etherscan.io/address/0xa5e4bd15cad5e5b0611f2c239521526ac159a850",
     "NETWORK": {
         "NAME": "Ethereum",
         "SYMBOL": "ETH",
         "ID": 1
     },
-    "NFT_NAME": "Crypto Country Club",
-    "SYMBOL": "CCC NFT",
+    "NFT_NAME": "Crypto Country Club NFT",
+    "SYMBOL": "CCC",
     "MAX_SUPPLY": 9900,
     "WEI_COST": 50000000000000000,
     "DISPLAY_COST": 0.05,
