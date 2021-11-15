@@ -10,7 +10,7 @@
     "SYMBOL": "CCC",
     "MAX_SUPPLY": 9900,
     "WEI_COST": 50000000000000000,
-    "DISPLAY_COST": 0.06,
+    "DISPLAY_COST": 0.05,
     "GAS_LIMIT": 3000000,
     "MARKETPLACE": "Opeansea",
     "MARKETPLACE_LINK": "https://opensea.io/collection/cryptocountryclub-collection",
