@@ -6,7 +6,7 @@
         "SYMBOL": "ETH",
         "ID": 1
     },
-    "NFT_NAME": 'PLEASE DO NOT MINT - TESTING ONLY - Crypto Country Club NFT",
+    "NFT_NAME": "PLEASE DO NOT MINT - TESTING ONLY - Crypto Country Club NFT",
     "SYMBOL": "CCC NFT",
     "MAX_SUPPLY": 9800,
     "WEI_COST": 50000000000000000,
