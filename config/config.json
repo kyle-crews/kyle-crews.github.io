@@ -1,10 +1,10 @@
 {
-    "CONTRACT_ADDRESS": "",
-    "SCAN_LINK": "",
+    "CONTRACT_ADDRESS": "0xa735add24f50ccad4853cf2a68a582eefbfb21be",
+    "SCAN_LINK": "https://rinkeby.etherscan.io/address/0xa735add24f50ccad4853cf2a68a582eefbfb21be",
     "NETWORK": {
-        "NAME": "Ethereum",
+        "NAME": "Rinkeby",
         "SYMBOL": "ETH",
-        "ID": 1
+        "ID": 4
     },
     "NFT_NAME": "Crypto Country Club NFT",
     "SYMBOL": "CCC NFT",
