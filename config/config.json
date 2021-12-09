@@ -1,6 +1,6 @@
 {
-    "CONTRACT_ADDRESS": "0x139bba12f4da10f96210433569430336ee79eb61",
-    "SCAN_LINK": "https://rinkeby.etherscan.io/address/0x139bba12f4da10f96210433569430336ee79eb61",
+    "CONTRACT_ADDRESS": "0xee17efcfdd083b16e5abc5a6695e0fe399a1478a",
+    "SCAN_LINK": "https://rinkeby.etherscan.io/address/0xee17efcfdd083b16e5abc5a6695e0fe399a1478a",
     "NETWORK": {
         "NAME": "Rinkeby",
         "SYMBOL": "ETH",
@@ -8,7 +8,7 @@
     },
     "NFT_NAME": "Crypto Country Club NFT",
     "SYMBOL": "CCC NFT",
-    "MAX_SUPPLY": 9800,
+    "MAX_SUPPLY": 10000,
     "WEI_COST": 50000000000000000,
     "DISPLAY_COST": 0.05,
     "GAS_LIMIT": 3000000,
