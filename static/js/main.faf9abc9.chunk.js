@@ -260,7 +260,7 @@
                                                         n.preventDefault(),
                                                             function() {
                                                                 var n = j + 1;
-                                                                n > 5 && (n = 5), h(n)
+                                                                n > 25 && (n = 25), h(n)
                                                             }()
                                                     },
                                                     children: "+"
